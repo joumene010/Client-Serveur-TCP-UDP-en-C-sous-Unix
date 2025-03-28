@@ -1,6 +1,5 @@
 # **📡 Client-Serveur TCP/UDP en C sous Unix**  
 
-![Unix Network Programming](assets/unix-network.png)  
 
 ## **📌 Aperçu du Projet**  
 Ce projet consiste en **deux applications client-serveur** développées en **C sous Unix/Linux**, utilisant les protocoles **TCP** (avec authentification) et **UDP** pour la communication réseau.  
